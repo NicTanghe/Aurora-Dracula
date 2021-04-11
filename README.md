@@ -1,3 +1,6 @@
 # Aurora-Dracula
-Aurora Dracula THeme
-Place in C:\Users\$username\AppData\Roaming\Aurora\Profiles\desktop
+> Aurora Dracula Theme
+
+## Install
+
+All instructions can be found at [draculatheme.com/aurora](https://draculatheme.com/aurora).
